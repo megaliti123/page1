@@ -1,0 +1,73 @@
+div.bordes{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    padding: 35px;
+    width: 1580px;
+    height: 720px;
+    margin: 60px auto ;
+}
+
+html {
+    background-image: url(../img/Cortar_por_la_lainea_de_puntos_Serie_de_TV-412447014-large.jpg);
+}
+
+div.titulo{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+
+  
+}
+
+div.titulo h1{
+ color: white;
+ font-family: 'Times New Roman';
+}
+
+div.textito{
+    display: block;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: left;
+   display: flex;
+   justify-content: right;
+   align-items: right;
+   left: auto;
+   position: relative;
+    width: 632px;
+    height: 350px;
+}
+div.textito p{
+    color: white;
+}
+
+div.imagenzero{
+   
+    padding: auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    position: relative;
+    width: 700px;
+    height: 450px;
+    left: 20px;
+}
+div.imagenzero img{
+    width: 700px;
+    height: 450px;
+    
+}
+div.container {
+    display: flex;
+}
+

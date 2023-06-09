@@ -1,0 +1,112 @@
+html{
+    background-image: url(../img/Van_Gogh_-_Rhone_-_1920-1080.jpg);
+}
+
+div.conte{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #E2CAAE;
+    padding: 35px;
+    width: 1080px;
+    height: 2700px;
+    margin: 200px auto ;
+  
+}
+div.titulos{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #70d8f1;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+   
+}
+
+div.imagen1 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: auto;
+    position: relative;
+}
+
+div.vincent a{
+    text-decoration: none;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #2141f5;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+   color: black;
+   font-size: 30px;
+}
+
+div.img2 img{
+    height: 600px;
+    
+}
+div.img2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: auto;
+    right: auto;
+    position: relative;
+}
+
+div.paganini a{
+    top: 10px;
+    text-decoration: none;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #ff0000;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+   color: rgb(0, 0, 0);
+   font-size: 30px;
+}
+
+
+div.img3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: auto;
+    right: auto;
+    position: relative;
+}
+div.zero a{
+    top: 10px;
+    text-decoration: none;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+   color: white;
+   font-size: 30px;
+}
+div.img4{
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: auto;
+    position: relative;
+}

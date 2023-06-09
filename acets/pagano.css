@@ -1,0 +1,66 @@
+html{
+    background-image: url(../img/orchestra.jpg);
+}
+
+div.bord{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #CC1110;
+    padding: 35px;
+    width: 1580px;
+    height: 720px;
+    margin: 60px auto ;
+}
+
+div.container{
+    display: flex;
+}
+div.titul{
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: auto;
+   position: relative;
+}
+div.titul h1{
+    color: rgb(5, 5, 5);
+    font-family: 'Times New Roman';
+
+}
+
+div.text{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    
+    text-align: left;
+   display: flex;
+   justify-content: right;
+   align-items: right;
+   left: auto;
+   position: relative;
+    width: 632px;
+    height: 350px;
+}
+
+div.text p{
+    font-size: 20px;
+}
+
+div.demon{
+    padding: auto;
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    position: relative;
+    width: 700px;
+    height: 450px;
+    left: 20px;
+}
+div.demon img{
+    width: 900px;
+    height: 450px;
+}
